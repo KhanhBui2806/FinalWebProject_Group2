@@ -9,6 +9,7 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet Khnah pusshg</a>
-<a href="thử nghiệm lần cuối">Hello Servlet dogggggggggg datdat 12432534636 qua môn 1234t4t44t4tt</a>
+<a href="thử nghiệm lần cuối">Hello Servlet </a>
+
 </body>
 </html>
