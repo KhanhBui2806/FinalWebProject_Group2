@@ -9,6 +9,6 @@
 </h1>
 <br/>
 <a href="hello-servlet">Hello Servlet</a>
-<a href="thử nghiệm lần cuối">Hello Servlet</a>
+<a href="thử nghiệm lần cuối">Hello Servlet qua môn</a>
 </body>
 </html>
